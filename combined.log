@@ -1,0 +1,25 @@
+info: Server started on port 3000 {"timestamp":"2024-02-23T16:17:14.956Z"}
+error: Error updating cryptocurrency list: {"timestamp":"2024-02-23T16:17:25.949Z"}
+info: Server started on port 3000 {"timestamp":"2024-02-23T16:25:12.828Z"}
+info: Cryptocurrency list updated. {"timestamp":"2024-02-23T16:25:40.744Z"}
+info: Cryptocurrency list updated. {"timestamp":"2024-02-23T16:30:50.505Z"}
+error: Error fetching historical price: {"timestamp":"2024-02-23T16:33:20.054Z"}
+error: Error fetching historical price: {"timestamp":"2024-02-23T16:33:32.554Z"}
+info: Server started on port 3000 {"timestamp":"2024-02-23T16:52:54.240Z"}
+info: Cryptocurrency list updated. {"timestamp":"2024-02-23T16:53:07.290Z"}
+info: Server started on port 3000 {"timestamp":"2024-02-23T16:55:45.383Z"}
+info: Server started on port 3000 {"timestamp":"2024-02-23T16:57:22.768Z"}
+info: Server started on port 3000 {"timestamp":"2024-02-23T17:02:20.593Z"}
+error: Error updating cryptocurrency list: {"timestamp":"2024-02-23T17:02:31.284Z"}
+info: Server started on port 3000 {"timestamp":"2024-02-23T17:06:04.344Z"}
+error: Error fetching historical price: {"timestamp":"2024-02-23T17:06:11.914Z"}
+info: Cryptocurrency list updated. {"timestamp":"2024-02-23T17:06:16.781Z"}
+error: Error fetching companies: {"timestamp":"2024-02-23T17:22:46.773Z"}
+error: Error fetching companies: {"timestamp":"2024-02-23T17:26:48.484Z"}
+error: Error fetching companies: {"timestamp":"2024-02-23T17:27:23.180Z"}
+error: Error fetching companies: {"timestamp":"2024-02-23T17:27:29.681Z"}
+info: Cryptocurrency list updated. {"timestamp":"2024-02-23T17:30:08.770Z"}
+error: Error fetching companies: {"timestamp":"2024-02-23T17:33:57.461Z"}
+info: Server started on port 3000 {"timestamp":"2024-02-23T17:37:22.869Z"}
+info: Cryptocurrency list updated. {"timestamp":"2024-02-23T17:37:36.600Z"}
+info: Cryptocurrency list updated. {"timestamp":"2024-02-23T18:30:42.142Z"}
